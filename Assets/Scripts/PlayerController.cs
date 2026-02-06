@@ -37,8 +37,6 @@ public class PlayerController : MonoBehaviour
         {
             Instantiate(foodPrefab, transform.position, Quaternion.identity);
         }
-        Instantiate(foodPrefab, transform.position, Quaternion.identity);
-
     }
           
 

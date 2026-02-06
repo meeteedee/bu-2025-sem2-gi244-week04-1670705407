@@ -739,7 +739,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 10
   xRange: 10
-  foodPrefab: {fileID: 0}
+  foodPrefab: {fileID: 521471614505315823, guid: b02d88990d40cb04f9a9161bc5136796, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
